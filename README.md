@@ -41,4 +41,5 @@ This is a simple SwiftUI application that allows users to filter and sort a list
    - Press the "Sort Alphabetically" button to sort the filtered list of names in ascending alphabetical order.
 
 ## Screenshots
-<img width="1319" alt="Screenshot 1446-09-02 at 9 08 36 PM" src="https://github.com/user-attachments/assets/3b8ff24d-7fd7-4881-980b-1d2f0e43b35b" />
+<img width="1405" alt="Screenshot 1446-09-04 at 2 23 13 PM" src="https://github.com/user-attachments/assets/ffb1492e-6ed8-43f4-876f-90052e97d0a2" />
+
